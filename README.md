@@ -3,12 +3,12 @@ Good Reads for Developers
 
 ## General
 
- * http://joearms.github.io/2014/02/07/why-programming-is-difficult.html
+ * [Why Programming is Difficult](http://joearms.github.io/2014/02/07/why-programming-is-difficult.html)
 
 ## Debugging
 
- * http://www.joelonsoftware.com/articles/LeakyAbstractions.html
- * http://www.yoda.arachsys.com/csharp/debugging.html
+ * [Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
+ * [Debugging tips](http://www.yoda.arachsys.com/csharp/debugging.html)
  
 ## Architecture / Design
 
