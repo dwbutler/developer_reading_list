@@ -21,3 +21,8 @@ Good Reads for Developers
 ## Methodology
 
  * [The Agile Manifesto Principles](https://www.scrumalliance.org/community/articles/2013/november/the-agile-manifesto-principles-what-do-they-mean)
+
+## Design Patterns / Anti-Patterns
+
+ * [Software Design Patterns Index](http://c2.com/cgi/wiki?SoftwareDesignPatternsIndex)
+ * [Anti Patterns Catalog](http://c2.com/cgi/wiki?AntiPatternsCatalog)
