@@ -26,3 +26,4 @@ Good Reads for Developers
 
  * [Software Design Patterns Index](http://c2.com/cgi/wiki?SoftwareDesignPatternsIndex)
  * [Anti Patterns Catalog](http://c2.com/cgi/wiki?AntiPatternsCatalog)
+ * [The Daily WTF](http://thedailywtf.com)
