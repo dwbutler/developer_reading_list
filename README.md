@@ -4,6 +4,11 @@ Good Reads for Developers
 ## General
 
  * [Why Programming is Difficult](http://joearms.github.io/2014/02/07/why-programming-is-difficult.html)
+ * 
+ 
+## Learning
+
+ * [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 
 ## Debugging
 
