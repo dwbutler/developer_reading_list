@@ -4,7 +4,6 @@ Good Reads for Developers
 ## General
 
  * [Why Programming is Difficult](http://joearms.github.io/2014/02/07/why-programming-is-difficult.html)
- * 
  
 ## Learning
 
@@ -22,6 +21,11 @@ Good Reads for Developers
  * [Requirements analysis](http://en.wikipedia.org/wiki/Requirements_analysis)
  * [Is Design Dead?](http://martinfowler.com/articles/designDead.html)
  * [Technical Debt](http://martinfowler.com/bliki/TechnicalDebt.html)
+ 
+## Cloud Architecture
+
+ * [The Twelve-Factor App](http://12factor.net)
+ * [The Cost of Virtualization](http://queue.acm.org/detail.cfm?id=1348591)
 
 ## Methodology
 
@@ -34,3 +38,12 @@ Good Reads for Developers
  * [Software Design Patterns Index](http://c2.com/cgi/wiki?SoftwareDesignPatternsIndex)
  * [Anti Patterns Catalog](http://c2.com/cgi/wiki?AntiPatternsCatalog)
  * [The Daily WTF](http://thedailywtf.com)
+ 
+## Code Quality
+
+ * [Software quality (Wikipedia)](http://en.wikipedia.org/wiki/Software_quality)
+ * [Code Smell](http://c2.com/cgi/wiki?CodeSmell)
+
+## Refactoring
+
+## Performance / Optimization
