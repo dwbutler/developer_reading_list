@@ -16,9 +16,9 @@ Good Reads for Developers
  
 ## Architecture / Design
 
+ * [Requirements analysis (Wikipedia)](http://en.wikipedia.org/wiki/Requirements_analysis)
  * [Modeling the Architecture of a Software System](http://msdn.microsoft.com/en-us/library/dd490886.aspx)
  * [Agile Software Architecture Sketches and NoUML](http://www.infoq.com/articles/agile-software-architecture-sketches-NoUML)
- * [Requirements analysis](http://en.wikipedia.org/wiki/Requirements_analysis)
  * [Is Design Dead?](http://martinfowler.com/articles/designDead.html)
  * [Technical Debt](http://martinfowler.com/bliki/TechnicalDebt.html)
  
@@ -26,6 +26,7 @@ Good Reads for Developers
 
  * [The Twelve-Factor App](http://12factor.net)
  * [The Cost of Virtualization](http://queue.acm.org/detail.cfm?id=1348591)
+ * [AWS Tips I Wish I'd Known Before I Started](http://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/)
 
 ## Methodology
 
