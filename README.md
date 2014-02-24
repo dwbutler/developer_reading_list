@@ -13,6 +13,7 @@ Good Reads for Developers
 
  * [Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
  * [Debugging tips](http://www.yoda.arachsys.com/csharp/debugging.html)
+ * [The Magic of Strace](http://chadfowler.com/blog/2014/01/26/the-magic-of-strace)
  
 ## Architecture / Design
 
@@ -27,6 +28,7 @@ Good Reads for Developers
  * [The Twelve-Factor App](http://12factor.net)
  * [The Cost of Virtualization](http://queue.acm.org/detail.cfm?id=1348591)
  * [AWS Tips I Wish I'd Known Before I Started](http://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/)
+ * [Architecting for AWS](http://www.slideshare.net/AmazonWebServices/architecting-for-aws)
 
 ## Methodology
 
