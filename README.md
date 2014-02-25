@@ -38,6 +38,7 @@ Hard Skills
  * [List of software development philosophies (Wikipedia)](http://en.wikipedia.org/wiki/List_of_software_development_philosophies)
  * [The Agile Manifesto Principles](https://www.scrumalliance.org/community/articles/2013/november/the-agile-manifesto-principles-what-do-they-mean)
  * [Continuous Integration](http://martinfowler.com/articles/continuousIntegration.html)
+ * [Complaint-Driven Development](http://www.codinghorror.com/blog/2014/02/complaint-driven-development.html)
 
 ### Design Patterns / Anti-Patterns
 
