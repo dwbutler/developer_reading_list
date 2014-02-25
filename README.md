@@ -47,9 +47,10 @@ Good Reads for Developers
  * [Software quality (Wikipedia)](http://en.wikipedia.org/wiki/Software_quality)
  * [Code Smell](http://c2.com/cgi/wiki?CodeSmell)
 
-## Dependency Management
+## Configuration Management
 
  * [Semantic Versioning](http://semver.org/)
+ * [Dependency hell (Wikipedia)](http://en.wikipedia.org/wiki/Dependency_hell)
 
 ## Refactoring
 
