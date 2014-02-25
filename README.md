@@ -30,10 +30,11 @@ Good Reads for Developers
  * [AWS Tips I Wish I'd Known Before I Started](http://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/)
  * [Architecting for AWS](http://www.slideshare.net/AmazonWebServices/architecting-for-aws)
 
-## Methodology
+## Methodologies / Practices
 
  * [List of software development philosophies (Wikipedia)](http://en.wikipedia.org/wiki/List_of_software_development_philosophies)
  * [The Agile Manifesto Principles](https://www.scrumalliance.org/community/articles/2013/november/the-agile-manifesto-principles-what-do-they-mean)
+ * [Continuous Integration](http://martinfowler.com/articles/continuousIntegration.html)
 
 ## Design Patterns / Anti-Patterns
 
