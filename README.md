@@ -52,6 +52,10 @@ Hard Skills
  * [Software quality (Wikipedia)](http://en.wikipedia.org/wiki/Software_quality)
  * [Code Smell](http://c2.com/cgi/wiki?CodeSmell)
 
+### Refactoring
+
+ * [Tell, Don't Ask](http://pragprog.com/articles/tell-dont-ask)
+
 ### Configuration Management
 
  * [Semantic Versioning](http://semver.org/)
