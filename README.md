@@ -54,6 +54,7 @@ Hard Skills
 
 ### Refactoring
 
+ * [SourceMaking - Refactoring](http://sourcemaking.com/refactoring)
  * [Tell, Don't Ask](http://pragprog.com/articles/tell-dont-ask)
 
 ### Configuration Management
