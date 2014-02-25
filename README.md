@@ -56,6 +56,7 @@ Hard Skills
 
  * [SourceMaking - Refactoring](http://sourcemaking.com/refactoring)
  * [Tell, Don't Ask](http://pragprog.com/articles/tell-dont-ask)
+ * [Use An Ask, Don’t Tell Policy With Ruby](http://patshaughnessy.net/2014/2/10/use-an-ask-dont-tell-policy-with-ruby)
 
 ### Configuration Management
 
