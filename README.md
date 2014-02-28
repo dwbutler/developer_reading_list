@@ -43,6 +43,7 @@ Hard Skills
 ### Design Patterns / Anti-Patterns
 
  * [Software design pattern (Wikipedia)](http://en.wikipedia.org/wiki/Software_design_pattern)
+ * [Anti-pattern (Wikipedia)](http://en.wikipedia.org/wiki/Anti-pattern)
  * [Software Design Patterns Index](http://c2.com/cgi/wiki?SoftwareDesignPatternsIndex)
  * [Anti Patterns Catalog](http://c2.com/cgi/wiki?AntiPatternsCatalog)
  * [The Daily WTF](http://thedailywtf.com)
