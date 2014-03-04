@@ -59,6 +59,7 @@ Hard Skills
 
  * [SourceMaking - Refactoring](http://sourcemaking.com/refactoring)
  * [7 Patterns to Refactor Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
+ * [Hexagonal Refactoring of a Rails Controller](http://ostryalabs.com/blog/2012/11/27/hexagonal-refactoring-controller.html)
  * [Tell, Don't Ask](http://pragprog.com/articles/tell-dont-ask)
  * [Use An Ask, Don’t Tell Policy With Ruby](http://patshaughnessy.net/2014/2/10/use-an-ask-dont-tell-policy-with-ruby)
 
