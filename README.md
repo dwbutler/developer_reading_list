@@ -24,7 +24,6 @@ Hard Skills
  * [Modeling the Architecture of a Software System](http://msdn.microsoft.com/en-us/library/dd490886.aspx)
  * [Agile Software Architecture Sketches and NoUML](http://www.infoq.com/articles/agile-software-architecture-sketches-NoUML)
  * [Is Design Dead?](http://martinfowler.com/articles/designDead.html)
- * [Technical Debt](http://martinfowler.com/bliki/TechnicalDebt.html)
  
 ### Cloud Architecture
 
@@ -54,6 +53,8 @@ Hard Skills
  * [Software quality (Wikipedia)](http://en.wikipedia.org/wiki/Software_quality)
  * [Code Smell](http://c2.com/cgi/wiki?CodeSmell)
  * [Deciphering Ruby Code Metrics](http://blog.codeclimate.com/blog/2013/08/07/deciphering-ruby-code-metrics/)
+ * [Technical Debt](http://martinfowler.com/bliki/TechnicalDebt.html) 
+ * [Good and Bad Technical Debt (and how TDD helps)](http://blog.crisp.se/2013/10/11/henrikkniberg/good-and-bad-technical-debt)
 
 ### Refactoring
 
