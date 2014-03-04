@@ -70,7 +70,7 @@ Hard Skills
 ### Security
 
  * [Open Web Application Security Project](https://www.owasp.org)
- * [http://blog.codeclimate.com/blog/2013/03/27/rails-insecure-defaults/](http://blog.codeclimate.com/blog/2013/03/27/rails-insecure-defaults/)
+ * [Rails' Insecure Defaults](http://blog.codeclimate.com/blog/2013/03/27/rails-insecure-defaults/)
 
 ### Performance / Optimization
 
