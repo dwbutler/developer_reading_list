@@ -81,3 +81,7 @@ Soft Skills
 ### Career Development
 
  * [What makes a Senior Developer](http://www.sowrey.org/2010/02/what-makes-a-senior-developer/)
+ 
+### Work/Life Balance
+
+ * [Killing the Crunch Mode Antipattern](http://chadfowler.com/blog/2014/01/22/the-crunch-mode-antipattern/)
