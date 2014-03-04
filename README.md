@@ -53,10 +53,12 @@ Hard Skills
 
  * [Software quality (Wikipedia)](http://en.wikipedia.org/wiki/Software_quality)
  * [Code Smell](http://c2.com/cgi/wiki?CodeSmell)
+ * [Deciphering Ruby Code Metrics](http://blog.codeclimate.com/blog/2013/08/07/deciphering-ruby-code-metrics/)
 
 ### Refactoring
 
  * [SourceMaking - Refactoring](http://sourcemaking.com/refactoring)
+ * [7 Patterns to Refactor Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
  * [Tell, Don't Ask](http://pragprog.com/articles/tell-dont-ask)
  * [Use An Ask, Don’t Tell Policy With Ruby](http://patshaughnessy.net/2014/2/10/use-an-ask-dont-tell-policy-with-ruby)
 
@@ -65,7 +67,10 @@ Hard Skills
  * [Semantic Versioning](http://semver.org/)
  * [Dependency hell (Wikipedia)](http://en.wikipedia.org/wiki/Dependency_hell)
 
-### Refactoring
+### Security
+
+ * [Open Web Application Security Project](https://www.owasp.org)
+ * [http://blog.codeclimate.com/blog/2013/03/27/rails-insecure-defaults/](http://blog.codeclimate.com/blog/2013/03/27/rails-insecure-defaults/)
 
 ### Performance / Optimization
 
