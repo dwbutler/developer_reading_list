@@ -38,6 +38,7 @@ Hard Skills
  * [Programming principles (Wikipedia)](http://en.wikipedia.org/wiki/Category:Programming_principles)
  * [The Agile Manifesto Principles](https://www.scrumalliance.org/community/articles/2013/november/the-agile-manifesto-principles-what-do-they-mean)
  * [Continuous Integration](http://martinfowler.com/articles/continuousIntegration.html)
+ * [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
  * [Complaint-Driven Development](http://www.codinghorror.com/blog/2014/02/complaint-driven-development.html)
 
 ### Design Patterns / Anti-Patterns
