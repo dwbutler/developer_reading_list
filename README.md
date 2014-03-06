@@ -24,6 +24,7 @@ Hard Skills
  * [Modeling the Architecture of a Software System](http://msdn.microsoft.com/en-us/library/dd490886.aspx)
  * [Agile Software Architecture Sketches and NoUML](http://www.infoq.com/articles/agile-software-architecture-sketches-NoUML)
  * [Is Design Dead?](http://martinfowler.com/articles/designDead.html)
+ * [Don't Let Architecture Astronauts Scare You](http://www.joelonsoftware.com/articles/fog0000000018.html)
  
 ### Cloud Architecture
 
