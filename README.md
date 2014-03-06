@@ -80,6 +80,10 @@ Hard Skills
 Soft Skills
 -----------
 
+### Project Management
+
+ * [Evidence Based Scheduling](http://www.joelonsoftware.com/items/2007/10/26.html)
+
 ### Career Development
 
  * [What makes a Senior Developer](http://www.sowrey.org/2010/02/what-makes-a-senior-developer/)
