@@ -82,6 +82,7 @@ Soft Skills
 ### Career Development
 
  * [What makes a Senior Developer](http://www.sowrey.org/2010/02/what-makes-a-senior-developer/)
+ * [This Is Professionalism](http://arches.io/2014/03/this-is-professionalism/)
  
 ### Work/Life Balance
 
