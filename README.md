@@ -14,7 +14,7 @@ Hard Skills
 
 ### Debugging
 
- * [Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
+ * [The Law of Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
  * [Debugging tips](http://www.yoda.arachsys.com/csharp/debugging.html)
  * [The Magic of Strace](http://chadfowler.com/blog/2014/01/26/the-magic-of-strace)
  
