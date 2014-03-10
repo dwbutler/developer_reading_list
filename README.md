@@ -76,6 +76,11 @@ Hard Skills
  * [Open Web Application Security Project](https://www.owasp.org)
  * [Rails' Insecure Defaults](http://blog.codeclimate.com/blog/2013/03/27/rails-insecure-defaults/)
 
+### Functional Programming
+
+ * [The Downfall of Imperative Programming](https://www.fpcomplete.com/business/blog/the-downfall-of-imperative-programming/)
+ * [Learn You a Haskell](http://learnyouahaskell.com/)
+
 ### Performance / Optimization
 
 Soft Skills
