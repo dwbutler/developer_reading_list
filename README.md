@@ -25,6 +25,7 @@ Hard Skills
  * [Agile Software Architecture Sketches and NoUML](http://www.infoq.com/articles/agile-software-architecture-sketches-NoUML)
  * [Is Design Dead?](http://martinfowler.com/articles/designDead.html)
  * [Don't Let Architecture Astronauts Scare You](http://www.joelonsoftware.com/articles/fog0000000018.html)
+ * [Micro Service Architecture](http://yobriefca.se/blog/2013/04/29/micro-service-architecture/)
  
 ### Cloud Architecture
 
