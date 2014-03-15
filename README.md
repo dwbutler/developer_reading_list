@@ -92,6 +92,10 @@ Soft Skills
 
  * [Evidence Based Scheduling](http://www.joelonsoftware.com/items/2007/10/26.html)
 
+### Organizational Principles
+
+ * [Super successful companies](http://blog.samaltman.com/super-successful-companies)
+
 ### Career Development
 
  * [What makes a Senior Developer](http://www.sowrey.org/2010/02/what-makes-a-senior-developer/)
