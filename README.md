@@ -92,9 +92,12 @@ Soft Skills
 
  * [Evidence Based Scheduling](http://www.joelonsoftware.com/items/2007/10/26.html)
 
-### Organizational Principles
+### Organizational Structure
 
  * [Super successful companies](http://blog.samaltman.com/super-successful-companies)
+ * [The Valve Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
+ * [Valve: How I Got Here, What It’s Like, and What I’m Doing](http://blogs.valvesoftware.com/abrash/valve-how-i-got-here-what-its-like-and-what-im-doing-2/)
+ * [Introducing Open Salaries at Buffer: Our Transparent Formula and All Individual Salaries](http://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/)
 
 ### Career Development
 
