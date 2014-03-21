@@ -74,6 +74,7 @@ Technical Skills
 
  * [Semantic Versioning](http://semver.org/)
  * [Dependency hell (Wikipedia)](http://en.wikipedia.org/wiki/Dependency_hell)
+ * [Useful Github Patterns](http://blog.quickpeople.co.uk/2013/07/10/useful-github-patterns/)
 
 ### Security
 
