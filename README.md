@@ -73,7 +73,6 @@ Technical Skills
 ### Configuration Management
 
  * [Software Change Management (Dr. Dobbs)](http://www.drdobbs.com/software-change-management/184415707)
- * [Painless Functional Specifications](http://www.joelonsoftware.com/articles/fog0000000036.html)
  * [Semantic Versioning](http://semver.org/)
  * [Dependency hell (Wikipedia)](http://en.wikipedia.org/wiki/Dependency_hell)
  * [Useful Github Patterns](http://blog.quickpeople.co.uk/2013/07/10/useful-github-patterns/)
@@ -96,6 +95,10 @@ Soft Skills
 ### Project Management
 
  * [Evidence Based Scheduling](http://www.joelonsoftware.com/items/2007/10/26.html)
+ 
+## Documentation
+
+ * [Painless Functional Specifications](http://www.joelonsoftware.com/articles/fog0000000036.html)
 
 ### Organizational Structure
 
