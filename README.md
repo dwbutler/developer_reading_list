@@ -28,6 +28,7 @@ Technical Skills
  * [Is Design Dead?](http://martinfowler.com/articles/designDead.html)
  * [Don't Let Architecture Astronauts Scare You](http://www.joelonsoftware.com/articles/fog0000000018.html)
  * [Micro Service Architecture](http://yobriefca.se/blog/2013/04/29/micro-service-architecture/)
+ * [Architecture is Dependency Management](http://clojurefun.wordpress.com/2012/12/21/architecture-is-dependency-management/)
  
 ### Cloud Architecture
 
