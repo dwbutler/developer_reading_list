@@ -82,6 +82,7 @@ Technical Skills
 ### Security
 
  * [Open Web Application Security Project](https://www.owasp.org)
+ * [Common Weakness Enumeration](http://cwe.mitre.org/)
  * [Rails' Insecure Defaults](http://blog.codeclimate.com/blog/2013/03/27/rails-insecure-defaults/)
 
 ### Functional Programming
