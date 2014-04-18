@@ -103,7 +103,7 @@ Soft Skills
 
  * [Evidence Based Scheduling](http://www.joelonsoftware.com/items/2007/10/26.html)
  
-## Documentation
+### Documentation
 
  * [Painless Functional Specifications](http://www.joelonsoftware.com/articles/fog0000000036.html)
 
