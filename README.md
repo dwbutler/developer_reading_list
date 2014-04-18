@@ -79,6 +79,11 @@ Technical Skills
  * [Dependency hell (Wikipedia)](http://en.wikipedia.org/wiki/Dependency_hell)
  * [Useful Github Patterns](http://blog.quickpeople.co.uk/2013/07/10/useful-github-patterns/)
 
+### Performance / Optimization
+
+ * [High Scalability](http://highscalability.com/)
+ * [Six things I wish we had known about scaling](http://martin.kleppmann.com/2014/03/26/six-things-about-scaling.html)
+
 ### Security
 
  * [Open Web Application Security Project](https://www.owasp.org)
@@ -90,8 +95,6 @@ Technical Skills
 
  * [The Downfall of Imperative Programming](https://www.fpcomplete.com/business/blog/the-downfall-of-imperative-programming/)
  * [Learn You a Haskell](http://learnyouahaskell.com/)
-
-### Performance / Optimization
 
 Soft Skills
 -----------
