@@ -84,6 +84,7 @@ Technical Skills
  * [High Scalability](http://highscalability.com/)
  * [MySQL Performance Blog](http://www.mysqlperformanceblog.com/)
  * [Six things I wish we had known about scaling](http://martin.kleppmann.com/2014/03/26/six-things-about-scaling.html)
+ * [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
 
 ### Security
 
