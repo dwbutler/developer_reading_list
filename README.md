@@ -71,6 +71,7 @@ Technical Skills
  * [Tell, Don't Ask](http://pragprog.com/articles/tell-dont-ask)
  * [Use An Ask, Don’t Tell Policy With Ruby](http://patshaughnessy.net/2014/2/10/use-an-ask-dont-tell-policy-with-ruby)
  * [Mob Refactoring](http://blog.codeclimate.com/blog/2014/01/30/mob-refactoring/)
+ * [Why Ruby Class Methods Resist Refactoring](http://blog.codeclimate.com/blog/2012/11/14/why-ruby-class-methods-resist-refactoring/)
 
 ### Configuration Management
 
