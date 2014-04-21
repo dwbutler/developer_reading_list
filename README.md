@@ -119,6 +119,7 @@ Soft Skills
 
 ### Career Development
 
+ * [Don't Call Yourself A Programmer, And Other Career Advice](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
  * [What makes a Senior Developer](http://www.sowrey.org/2010/02/what-makes-a-senior-developer/)
  * [This Is Professionalism](http://arches.io/2014/03/this-is-professionalism/)
  * [The role of a hands-on software architect](http://www.codingthearchitecture.com/pages/book/role.html)
