@@ -93,6 +93,7 @@ Technical Skills
  * [Common Weakness Enumeration](http://cwe.mitre.org/)
  * [Rails' Insecure Defaults](http://blog.codeclimate.com/blog/2013/03/27/rails-insecure-defaults/)
  * [Brakeman Scanner Warning Types](http://brakemanscanner.org/docs/warning_types/)
+ * [Ruby Security Have You Not!](https://hakiri.io/blog/ruby-security-have-you-not)
 
 ### Functional Programming
 
