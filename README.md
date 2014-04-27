@@ -10,6 +10,7 @@ General
 ### Learning
 
  * [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
+ * [Reading Ruby for Professional Development](http://www.sitepoint.com/reading-ruby-professional-development/)
 
 Technical Skills
 ----------------
