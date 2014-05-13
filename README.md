@@ -38,6 +38,7 @@ Technical Skills
  * [The Cost of Virtualization](http://queue.acm.org/detail.cfm?id=1348591)
  * [AWS Tips I Wish I'd Known Before I Started](http://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/)
  * [Architecting for AWS](http://www.slideshare.net/AmazonWebServices/architecting-for-aws)
+ * [The Fallacies of Distributed Computing Reborn: The Cloud Era](http://blog.newrelic.com/2011/01/06/the-fallacies-of-distributed-computing-reborn-the-cloud-era/)
 
 ### Methodologies / Practices
 
