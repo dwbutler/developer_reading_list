@@ -96,6 +96,7 @@ Technical Skills
  * [Six things I wish we had known about scaling](http://martin.kleppmann.com/2014/03/26/six-things-about-scaling.html)
  * [7 Stages of Scaling Web Applications](http://www.slideshare.net/davemitz/7-stages-of-scaling-web-applications)
  * [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
+ * [Premature Optimization](http://c2.com/cgi/wiki?PrematureOptimization)
 
 ### Security
 
