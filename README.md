@@ -40,7 +40,40 @@ Technical Skills
  * [Architecting for AWS](http://www.slideshare.net/AmazonWebServices/architecting-for-aws)
  * [The Fallacies of Distributed Computing Reborn: The Cloud Era](http://blog.newrelic.com/2011/01/06/the-fallacies-of-distributed-computing-reborn-the-cloud-era/)
 
-### Methodologies / Practices
+### Design Patterns / Anti-Patterns
+
+ * [Software design pattern (Wikipedia)](http://en.wikipedia.org/wiki/Software_design_pattern)
+ * [Anti-pattern (Wikipedia)](http://en.wikipedia.org/wiki/Anti-pattern)
+ * [Software Design Patterns Index](http://c2.com/cgi/wiki?SoftwareDesignPatternsIndex)
+ * [Anti Patterns Catalog](http://c2.com/cgi/wiki?AntiPatternsCatalog)
+ * [The Daily WTF](http://thedailywtf.com)
+
+### Performance / Optimization
+
+ * [High Scalability](http://highscalability.com/)
+ * [MySQL Performance Blog](http://www.mysqlperformanceblog.com/)
+ * [Six things I wish we had known about scaling](http://martin.kleppmann.com/2014/03/26/six-things-about-scaling.html)
+ * [7 Stages of Scaling Web Applications](http://www.slideshare.net/davemitz/7-stages-of-scaling-web-applications)
+ * [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
+ * [Premature Optimization](http://c2.com/cgi/wiki?PrematureOptimization)
+
+### Security
+
+ * [Open Web Application Security Project](https://www.owasp.org)
+ * [Common Weakness Enumeration](http://cwe.mitre.org/)
+ * [Rails' Insecure Defaults](http://blog.codeclimate.com/blog/2013/03/27/rails-insecure-defaults/)
+ * [Brakeman Scanner Warning Types](http://brakemanscanner.org/docs/warning_types/)
+ * [Ruby Security Have You Not!](https://hakiri.io/blog/ruby-security-have-you-not)
+
+### Functional Programming
+
+ * [The Downfall of Imperative Programming](https://www.fpcomplete.com/business/blog/the-downfall-of-imperative-programming/)
+ * [Learn You a Haskell](http://learnyouahaskell.com/)
+
+Software Process
+----------------
+
+### Methodologies / Processes
 
  * [List of software development philosophies (Wikipedia)](http://en.wikipedia.org/wiki/List_of_software_development_philosophies)
  * [Programming principles (Wikipedia)](http://en.wikipedia.org/wiki/Category:Programming_principles)
@@ -49,14 +82,6 @@ Technical Skills
  * [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
  * [Complaint-Driven Development](http://www.codinghorror.com/blog/2014/02/complaint-driven-development.html)
 
-### Design Patterns / Anti-Patterns
-
- * [Software design pattern (Wikipedia)](http://en.wikipedia.org/wiki/Software_design_pattern)
- * [Anti-pattern (Wikipedia)](http://en.wikipedia.org/wiki/Anti-pattern)
- * [Software Design Patterns Index](http://c2.com/cgi/wiki?SoftwareDesignPatternsIndex)
- * [Anti Patterns Catalog](http://c2.com/cgi/wiki?AntiPatternsCatalog)
- * [The Daily WTF](http://thedailywtf.com)
- 
 ### Code Quality
 
  * [Software quality (Wikipedia)](http://en.wikipedia.org/wiki/Software_quality)
@@ -88,28 +113,6 @@ Technical Skills
 ### Documentation
 
  * [Painless Functional Specifications](http://www.joelonsoftware.com/articles/fog0000000036.html)
-
-### Performance / Optimization
-
- * [High Scalability](http://highscalability.com/)
- * [MySQL Performance Blog](http://www.mysqlperformanceblog.com/)
- * [Six things I wish we had known about scaling](http://martin.kleppmann.com/2014/03/26/six-things-about-scaling.html)
- * [7 Stages of Scaling Web Applications](http://www.slideshare.net/davemitz/7-stages-of-scaling-web-applications)
- * [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
- * [Premature Optimization](http://c2.com/cgi/wiki?PrematureOptimization)
-
-### Security
-
- * [Open Web Application Security Project](https://www.owasp.org)
- * [Common Weakness Enumeration](http://cwe.mitre.org/)
- * [Rails' Insecure Defaults](http://blog.codeclimate.com/blog/2013/03/27/rails-insecure-defaults/)
- * [Brakeman Scanner Warning Types](http://brakemanscanner.org/docs/warning_types/)
- * [Ruby Security Have You Not!](https://hakiri.io/blog/ruby-security-have-you-not)
-
-### Functional Programming
-
- * [The Downfall of Imperative Programming](https://www.fpcomplete.com/business/blog/the-downfall-of-imperative-programming/)
- * [Learn You a Haskell](http://learnyouahaskell.com/)
 
 Soft Skills
 -----------
