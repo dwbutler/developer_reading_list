@@ -6,6 +6,7 @@ General
 
  * [Why Programming is Difficult](http://joearms.github.io/2014/02/07/why-programming-is-difficult.html)
  * [The Long, Dismal History of Software Project Failure](http://www.codinghorror.com/blog/2006/05/the-long-dismal-history-of-software-project-failure.html)
+ * [10 Articles Every Programmer Must Read](http://javarevisited.blogspot.com/2014/05/10-articles-every-programmer-must-read.html)
 
 ### Learning
 
