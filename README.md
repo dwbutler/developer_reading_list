@@ -38,7 +38,11 @@ Technical Skills
  * [The Cost of Virtualization](http://queue.acm.org/detail.cfm?id=1348591)
  * [AWS Tips I Wish I'd Known Before I Started](http://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/)
  * [Architecting for AWS](http://www.slideshare.net/AmazonWebServices/architecting-for-aws)
+
+### Distributed Systems
  * [The Fallacies of Distributed Computing Reborn: The Cloud Era](http://blog.newrelic.com/2011/01/06/the-fallacies-of-distributed-computing-reborn-the-cloud-era/)
+ * [The CAP FAQ](http://henryr.github.io/cap-faq/)
+ * [List of distributed systems reading lists, plus miscellanea](https://gist.github.com/macintux/6227368)
 
 ### Design Patterns / Anti-Patterns
 
