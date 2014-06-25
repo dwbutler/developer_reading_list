@@ -43,6 +43,7 @@ Technical Skills
 ### Distributed Systems
  * [The Fallacies of Distributed Computing Reborn: The Cloud Era](http://blog.newrelic.com/2011/01/06/the-fallacies-of-distributed-computing-reborn-the-cloud-era/)
  * [The CAP FAQ](http://henryr.github.io/cap-faq/)
+ * [Distributed Systems and the End of the API](http://writings.quilt.org/2014/05/12/distributed-systems-and-the-end-of-the-api/)
  * [List of distributed systems reading lists, plus miscellanea](https://gist.github.com/macintux/6227368)
 
 ### Design Patterns / Anti-Patterns
