@@ -13,6 +13,8 @@ General
  * [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
  * [Reading Ruby for Professional Development](http://www.sitepoint.com/reading-ruby-professional-development/)
  * [Beef Up Your Skills with Code Exercise](http://flippinawesome.org/2014/05/12/beef-up-your-skills-with-code-exercise/)
+ * [Learn X in Y minutes](http://learnxinyminutes.com/)
+ * [Hyperpolyglot](http://hyperpolyglot.org/)
 
 Technical Skills
 ----------------
