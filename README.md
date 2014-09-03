@@ -151,3 +151,4 @@ Soft Skills
 ### Work/Life Balance
 
  * [Killing the Crunch Mode Antipattern](http://chadfowler.com/blog/2014/01/22/the-crunch-mode-antipattern/)
+ * [Don't Be A Hero](https://al3x.net/2010/01/09/dont-be-a-hero.html)
