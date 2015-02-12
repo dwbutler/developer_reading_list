@@ -135,6 +135,7 @@ Soft Skills
 ### People Management
 
  * [Your Most Important Skill: Empathy](http://chadfowler.com/blog/2014/01/19/empathy/)
+ * [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html)
 
 ### Organizational Structure
 
