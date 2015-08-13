@@ -89,7 +89,6 @@ Software Process
  * [List of software development philosophies (Wikipedia)](http://en.wikipedia.org/wiki/List_of_software_development_philosophies)
  * [Programming principles (Wikipedia)](http://en.wikipedia.org/wiki/Category:Programming_principles)
  * [The Agile Manifesto Principles](https://www.scrumalliance.org/community/articles/2013/november/the-agile-manifesto-principles-what-do-they-mean)
- * [Continuous Integration](http://martinfowler.com/articles/continuousIntegration.html)
  * [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
  * [Complaint-Driven Development](http://www.codinghorror.com/blog/2014/02/complaint-driven-development.html)
 
@@ -121,6 +120,11 @@ Software Process
  * [Dependency hell (Wikipedia)](http://en.wikipedia.org/wiki/Dependency_hell)
  * [Useful Github Patterns](http://blog.quickpeople.co.uk/2013/07/10/useful-github-patterns/)
 
+### Software Delivery 
+ * [Continuous Integration](http://martinfowler.com/articles/continuousIntegration.html)
+ * [Continous Delivery](http://martinfowler.com/books/continuousDelivery.html)
+ * [The many reasons your deployment is racy](https://blog.rainforestqa.com/2014-09-19-the-many-reasons-your-deployment-is-racy/)
+ 
 ### Documentation
 
  * [Painless Functional Specifications](http://www.joelonsoftware.com/articles/fog0000000036.html)
