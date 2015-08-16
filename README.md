@@ -13,6 +13,7 @@ General
  * [The Long, Dismal History of Software Project Failure](http://www.codinghorror.com/blog/2006/05/the-long-dismal-history-of-software-project-failure.html)
  * [Software Horror Stories](http://www.cs.tau.ac.il/~nachumd/horror.html)
  * [The Taxonomy of Terrible Programmers](http://www.aaronstannard.com/the-taxonomy-of-terrible-programmers/)
+ * [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
 
 ### Learning
 
