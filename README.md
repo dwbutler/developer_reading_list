@@ -14,6 +14,7 @@ General
  * [Software Horror Stories](http://www.cs.tau.ac.il/~nachumd/horror.html)
  * [The Taxonomy of Terrible Programmers](http://www.aaronstannard.com/the-taxonomy-of-terrible-programmers/)
  * [Things You Should Never Do, Part I](http://www.joelonsoftware.com/articles/fog0000000069.html)
+ * [Why You Should (Almost) Never Rewrite Code – A Graphical Guide](http://vibratingmelon.com/2011/06/10/why-you-should-almost-never-rewrite-code-a-graphical-guide/)
 
 ### Learning
 
