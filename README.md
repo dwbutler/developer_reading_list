@@ -23,7 +23,7 @@ General
  * [Beef Up Your Skills with Code Exercise](http://flippinawesome.org/2014/05/12/beef-up-your-skills-with-code-exercise/)
  * [Learn X in Y minutes](http://learnxinyminutes.com/)
  * [Hyperpolyglot](http://hyperpolyglot.org/)
- * [getAwesomeness][http://getawesomeness.com/]
+ * [getAwesomeness()](http://getawesomeness.com/)
 
 Technical Skills
 ----------------
