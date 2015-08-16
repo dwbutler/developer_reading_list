@@ -4,11 +4,15 @@ Good Reads for Developers
 General
 -------
 
+ * [10 Articles Every Programmer Must Read](http://javarevisited.blogspot.com/2014/05/10-articles-every-programmer-must-read.html)
+ * [What Every Frontend Developer Should Know About Webpage Rendering](http://frontendbabel.info/articles/webpage-rendering-101/)
+
+### Depressing Reading
+
  * [Why Programming is Difficult](http://joearms.github.io/2014/02/07/why-programming-is-difficult.html)
  * [The Long, Dismal History of Software Project Failure](http://www.codinghorror.com/blog/2006/05/the-long-dismal-history-of-software-project-failure.html)
  * [Software Horror Stories](http://www.cs.tau.ac.il/~nachumd/horror.html)
- * [10 Articles Every Programmer Must Read](http://javarevisited.blogspot.com/2014/05/10-articles-every-programmer-must-read.html)
- * [What Every Frontend Developer Should Know About Webpage Rendering](http://frontendbabel.info/articles/webpage-rendering-101/)
+ * [The Taxonomy of Terrible Programmers](http://www.aaronstannard.com/the-taxonomy-of-terrible-programmers/)
 
 ### Learning
 
@@ -17,6 +21,7 @@ General
  * [Beef Up Your Skills with Code Exercise](http://flippinawesome.org/2014/05/12/beef-up-your-skills-with-code-exercise/)
  * [Learn X in Y minutes](http://learnxinyminutes.com/)
  * [Hyperpolyglot](http://hyperpolyglot.org/)
+ * [getAwesomeness()][http://getawesomeness.com/]
 
 Technical Skills
 ----------------
