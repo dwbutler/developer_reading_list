@@ -88,6 +88,7 @@ Technical Skills
  * [The Downfall of Imperative Programming](https://www.fpcomplete.com/business/blog/the-downfall-of-imperative-programming/)
  * [Learn You a Haskell](http://learnyouahaskell.com/)
  * [Real World Haskell](http://book.realworldhaskell.org/read/)
+ * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/)
 
 Software Process
 ----------------
