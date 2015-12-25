@@ -75,6 +75,7 @@ Technical Skills
  * [7 Stages of Scaling Web Applications](http://www.slideshare.net/davemitz/7-stages-of-scaling-web-applications)
  * [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
  * [Premature Optimization](http://c2.com/cgi/wiki?PrematureOptimization)
+ * [Load Testing: An Unexpected Journey](http://making.fiftythree.com/load-testing-an-unexpected-journey/)
 
 ### Security
 
@@ -101,6 +102,9 @@ Software Process
  * [The Agile Manifesto Principles](https://www.scrumalliance.org/community/articles/2013/november/the-agile-manifesto-principles-what-do-they-mean)
  * [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
  * [Complaint-Driven Development](http://www.codinghorror.com/blog/2014/02/complaint-driven-development.html)
+ * [100 Curse Free Lessons From Gordon Ramsay On Building Great
+   Software](http://highscalability.com/blog/2013/8/12/100-curse-free-lessons-from-gordon-ramsay-on-building-great.html)
+ * [Unblock! A Guide to the New Continuous Agile](http://www.continuousagile.com/unblock/)
 
 ### Code Quality
 
@@ -111,6 +115,11 @@ Software Process
  * [Good and Bad Technical Debt (and how TDD helps)](http://blog.crisp.se/2013/10/11/henrikkniberg/good-and-bad-technical-debt)
  * [Simple and Easy: A Vocabulary to Describe Software Complexity](http://daemon.co.za/2014/03/simple-and-easy-vocabulary-to-describe-software-complexity/)
  * [The Elements of Style in Ruby: An Essay in N Parts](http://batsov.com/articles/2013/06/26/the-elements-of-style-in-ruby-an-essay-in-n-parts/)
+
+### Testing
+
+ * [TDD is dead. Long live testing.](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
+ * [On Unit Testing](https://medium.com/@kevincennis/on-unit-testing-1cc6798f81ee)
 
 ### Refactoring
 
