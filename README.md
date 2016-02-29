@@ -76,6 +76,7 @@ Technical Skills
  * [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
  * [Premature Optimization](http://c2.com/cgi/wiki?PrematureOptimization)
  * [Load Testing: An Unexpected Journey](http://making.fiftythree.com/load-testing-an-unexpected-journey/)
+ * [How I Learned To Stop Worrying And Love Using A Lot Of Disk Space To Scale](http://highscalability.com/how-i-learned-stop-worrying-and-love-using-lot-disk-space-scale)
 
 ### Security
 
