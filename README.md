@@ -26,6 +26,14 @@ General
  * [Hyperpolyglot](http://hyperpolyglot.org/)
  * [getAwesomeness()](http://getawesomeness.com/)
 
+### Falsehoods Programmers Believe
+
+ * [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+ * [Falsehoods Programmers Believe About Time](http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
+ * [Falsehoods Programmers Believe About Addresses](https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/)
+ * For More: [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood)
+ 
+
 Technical Skills
 ----------------
 
