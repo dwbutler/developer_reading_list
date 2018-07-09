@@ -122,7 +122,7 @@ Software Process
  * [Deciphering Ruby Code Metrics](http://blog.codeclimate.com/blog/2013/08/07/deciphering-ruby-code-metrics/)
  * [Technical Debt](http://martinfowler.com/bliki/TechnicalDebt.html) 
  * [Good and Bad Technical Debt (and how TDD helps)](http://blog.crisp.se/2013/10/11/henrikkniberg/good-and-bad-technical-debt)
- * [Simple and Easy: A Vocabulary to Describe Software Complexity](http://daemon.co.za/2014/03/simple-and-easy-vocabulary-to-describe-software-complexity/)
+ * [Simple and Easy: A Vocabulary to Describe Software Complexity](http://daemon.co.za/2014/03/simple-and-easy-vocabulary-to-describe-software-complexity)
  * [The Elements of Style in Ruby: An Essay in N Parts](http://batsov.com/articles/2013/06/26/the-elements-of-style-in-ruby-an-essay-in-n-parts/)
 
 ### Testing
