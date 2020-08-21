@@ -156,6 +156,7 @@ Software Process
 ### Documentation
 
  * [Painless Functional Specifications](http://www.joelonsoftware.com/articles/fog0000000036.html)
+ * [Code Comments are Lies](https://www.codeproject.com/Articles/872073/Code-Comments-are-Lies)
 
 Soft Skills
 -----------
